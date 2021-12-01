@@ -57,7 +57,7 @@
     "styled-components": "^5.2.1"
   },
   "dependencies": {
-    "@glif/filecoin-address": "^1.0.0-beta.5",
+    "@glif/filecoin-address": "^1.1.0",
     "@glif/filecoin-number": "^1.0.0-beta.5",
     "@glif/filecoin-rpc-client": "^1.1.0-beta.11",
     "axios": "^0.21.0",
