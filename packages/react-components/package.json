@@ -61,7 +61,7 @@
     "@glif/filecoin-number": "^1.0.0-beta.5",
     "@glif/filecoin-rpc-client": "^1.1.0-beta.11",
     "axios": "^0.21.0",
-    "bip39": "^3.0.3",
+    "bip39": "^3.1.0",
     "dayjs": "^1.9.6",
     "prop-types": "^15.7.2",
     "styled-system": "^5.1.5"
